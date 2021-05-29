@@ -59,5 +59,7 @@
 <a href="https://www.twitter.com/tmuneebanjum/"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=tmuneebanjum&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com"></a>
 <a href="mailto:tmuneebanjum@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tmuneebanjum-blue?style=flat-square&logo=gmail"></a>
 </p>
+<a href="https://facebook.com/tmuneebanjum"><img alt="Facebook" src="https://img.shields.io/twitter/url?label=Facebook&logo=facebook&style=social&url=https%3A%2F%2Ffacebook.com"></a>
+</p>
 
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->

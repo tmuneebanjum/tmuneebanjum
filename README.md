@@ -13,7 +13,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Wordpress](https://img.shields.io/badge/Wordpress-__-orange)
+  ![Wordpress](https://img.shields.io/twitter/url?label=Wordpress&logo=wordpress&style=flat-square&url=https%3A%2F%2Fwordpress.com)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 <!--   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
 - 🌐 &nbsp;
